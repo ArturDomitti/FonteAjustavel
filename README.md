@@ -41,9 +41,6 @@ Total: 16,36
 
 OBS: O ideal para o projeto seria um resistor de 100Ω e 2W entre o diodo zener e o transistor no lugar do resistor de 120Ω e 2W, porém, não foi achado um componente com essas especificações nas lojas da cidadade. Esse imprevisto gerou duas possibilidades, usar um resistor de 100Ω (pequeno) e por consequencia esquentar muito (solução optada), ou usar o resistor de 120Ω e 5W, o que impossibilitaria obter os 12 Volts esperados por poucas casas decimais.
 
-
-## Cálculos
-
 ## Vídeo explicativo
 https://www.youtube.com/watch?v=jUP7bq_nxrs&ab_channel=JonasKaitaUSP
 
